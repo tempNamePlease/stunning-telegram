@@ -28,6 +28,9 @@ The sytem shall aid student's in studying by providing a way to have study mater
 <h3>modes of system operation</h3>
 The system will be a web application
 <h3>user classes and other involved personnel</h3>
+The system shall be light weight out of the box and have minimal impact on recourses for general users who may be working on older or less powerful machines. 
+There shall be options for add on for power users who have the recourses available to further customize their user experience.
+Some users will bounce from different machines, the system shall accommodate them and allow settings and configurations to be saved and toggled in an efficient manner. 
 
 <h3>support environment</h3>
 The system shall support Windows and Mac PCs
