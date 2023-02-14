@@ -2,4 +2,4 @@ A sketch is used to just get you bearings on what you want and get an idea of a 
 
 The process I took to create this diagram was to make a site that I liked. My official title at work is web developer but I’m more of a web designer with not training and I wanted to just make something that I liked and that didn’t have to be taken so seriously. I’ve made and see so many of the same website that I just wanted to make something a little bit different and something that broke the rules in a fun way. After all this site would be mean for other college students. I’ll probably go back and make some final changes for readability’s sake since at the end of the day that takes priority.
 
-<a href="https://www.figma.com/file/Rt4PsTviQSxsHpRcymBIuL/BrainRot?node-id=0%3A1&t=kwXG4cudVYP340RX-1" target="_blank" >Check it out here</a>
+<a href="https://www.figma.com/file/Rt4PsTviQSxsHpRcymBIuL/BrainRot?node-id=0%3A1&t=kwXG4cudVYP340RX-1" rel="noreferrer noopener" >Check it out here</a>
