@@ -72,9 +72,9 @@ A user will log in their their account navigate to create a new reading. Upload 
 
 # 6 Other preliminary life-cycle concepts
 
-![Landing Page - M.png](1%20Introduction%201c25fdbf162d4fc9b7e37787b3f3c9f6/Landing_Page_-_M.png)
+![Landing Page - M](https://user-images.githubusercontent.com/71856126/222874570-5a183f62-374b-40a1-a7c4-80820baa9acb.png)
 
-![Sign Up - M.png](1%20Introduction%201c25fdbf162d4fc9b7e37787b3f3c9f6/Sign_Up_-_M.png)
+![Sign Up - M](https://user-images.githubusercontent.com/71856126/222874581-f219da73-5182-49e8-ab6b-b130f09f9ff6.png)
 
 ## 6.1 Preliminary acquisition concept
 
