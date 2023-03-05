@@ -1,4 +1,4 @@
-[Business model](#Business model)
+[Business model](#Business-model)
 
 # 1 Introduction<a name="Introduction"></a>
 
@@ -26,7 +26,7 @@ External environments that could affect this system would include the preferred 
 
 Our mission is to make studying and independent learning easier to accomplish. A student should not dread to sit down and study especially if they are using our product.
 
-## 3.3 Business model<a name="Business model"></a>
+## 3.3 Business model<a name="Business-model"></a>
 
 The business model will be tier-based subscriptions while still including a non-stifling free version. The high tiers would have more features to make it worth the investment.
 
