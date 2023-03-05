@@ -1,3 +1,6 @@
+# System Definition Document / Business Requirements Specification (BRS) - BrainRot
+
+## Table of Contents 
 [Introduction](#1-Introduction)  
 
 [1.1 Business purpose](#11-Business-purpose)  
