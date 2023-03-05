@@ -14,8 +14,6 @@ The Business domain would be productivity software. We aim at making reading eas
 
 Major stakeholders would be the users once the first version of the product is released. There will be no investors or the such, not buy our choosing. The users will have heavy hand in guiding development and new features. The customers will have a little more weight their feedback since they pay for this service.  
 
-# 2 References
-
 # 3 Business management requirements
 
 ## 3.1 Business environment
