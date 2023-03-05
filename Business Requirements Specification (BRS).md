@@ -1,6 +1,21 @@
 [Introduction](#1-Introduction)  
 
-[1.1 Business purpose](#11Business-purpose)
+[1.1 Business purpose](#11-Business-purpose)  
+
+[1.2 Business scope](#12-Business-scope)  
+
+[1.3 Business overview](#13-Business-overview)  
+
+[1.4 Definitions](#1.4-Definitions)  
+
+[1.5 Major stakeholders](#15-Major-stakeholders)  
+
+[3. Business management requirements](#3-Business-management-requirements)  
+
+[3.1 Business environment](#31-Business-environment)  
+
+[3.2 Mission, goals, and objectives](#32-Mission-goals-and-objectives)  
+
 
 # 1 Introduction<a name="Introduction"></a>
 
