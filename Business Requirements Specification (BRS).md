@@ -1,4 +1,4 @@
-[Business model](#Business-model)
+[Introduction](#1-Introduction)
 
 # 1 Introduction<a name="Introduction"></a>
 
